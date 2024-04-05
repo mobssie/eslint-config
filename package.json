@@ -1,0 +1,14 @@
+{
+  "name": "@purejjr/eslint-config",
+  "version": "1.0.1",
+  "description": "config eslint for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "purejjr"
+  ],
+  "author": "mobssie",
+  "license": "ISC"
+}
